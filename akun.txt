@@ -1,0 +1,9 @@
+ftp
+host: ftpupload.net
+user: epiz_27904115
+pass: W4pvwVd8vW5
+
+db
+host: sql313.epizy.com
+user: epiz_27904115
+pass: W4pvwVd8vW5
